@@ -1,1 +1,0 @@
-print ("Lego Castle Dragon")
