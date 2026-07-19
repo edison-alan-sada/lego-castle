@@ -1,1 +1,1 @@
-print "Lego Castle"
+print ("Lego Castle")
